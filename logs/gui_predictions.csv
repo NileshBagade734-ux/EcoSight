@@ -1,3 +1,4 @@
 timestamp,image,label,confidence,entropy,route
 2026-02-22 23:16:08.971524,cardboard2.jpg,cardboard,0.99,0.065,bin_cardboard
 2026-02-23 07:15:50.136018,cardboard34.jpg,cardboard,1.0,0.001,bin_cardboard
+2026-02-23 13:20:48.449332,cardboard2.jpg,cardboard,0.99,0.065,bin_cardboard
